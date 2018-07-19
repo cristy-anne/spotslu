@@ -5,8 +5,8 @@
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVnmah7GWvf0nzf12ImH8Lh5FsbI9q-yPw-5GQIO86mvKZhjQ7DQ",
     "price": 250,
     "priceCurrency": "PHP",
-    "lat": 16.3367,
-    "lng": 120.4788
+    "lat": 16.336675,
+    "lng": 120.478815
   },
   {
     "id": 145,
@@ -77,8 +77,8 @@
     "imageUrl": "https://i.ytimg.com/vi/EeXY-0DTsmg/maxresdefault.jpg",
     "price": 0,
     "priceCurrency": "PHP",
-    "lat": 16.336675,
-    "lng": 120.478815
+    "lat": 16.6719671,
+    "lng": 120.36275780000005
   },
   {
     "id": 210,
