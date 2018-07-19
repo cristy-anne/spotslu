@@ -72,15 +72,6 @@
     "lng": 120.319793
   },
   {
-    "id": 205,
-    "name": "San Juan Surfing Area",
-    "imageUrl": "https://i.ytimg.com/vi/EeXY-0DTsmg/maxresdefault.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.6719671,
-    "lng": 120.36275780000005
-  },
-  {
     "id": 210,
     "name": "Immuki Island",
     "imageUrl": "https://roamulofied.files.wordpress.com/2018/01/immuki14.jpg?w=960",
